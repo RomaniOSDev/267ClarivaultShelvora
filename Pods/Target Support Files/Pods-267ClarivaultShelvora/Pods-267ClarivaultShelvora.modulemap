@@ -1,0 +1,6 @@
+framework module Pods_267ClarivaultShelvora {
+  umbrella header "Pods-267ClarivaultShelvora-umbrella.h"
+
+  export *
+  module * { export * }
+}
